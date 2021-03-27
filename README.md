@@ -13,3 +13,7 @@ gmail: congaterori@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congaterori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/congaterori)
+
+![React Badge](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
+
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo-Python&logocolor=white&?style=for-the-badge&logo=appveyor" />

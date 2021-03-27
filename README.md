@@ -13,3 +13,5 @@ gmail: congaterori@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congaterori)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/congaterori)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congaterori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

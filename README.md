@@ -3,7 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congaterori&show_icons=true&theme=radical)
 
 #### I'm a scientist
-![I'm a scientist](https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.0-9/68677453_100670701295941_781525743967404032_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=AMwk4NbbYm0AX-xQUAh&_nc_ht=scontent.fsgn5-6.fna&oh=30bb85b5e0d6294d04a1d91f076fb197&oe=608462A3)
 
 Quote: nothing is impossible
 

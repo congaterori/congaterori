@@ -13,11 +13,10 @@ gmail: congaterori@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congaterori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub metrics](https://metrics.lecoq.io/congaterori)
-#
 <div align="center">
   <h2>Program langue i know:</h2>
   <a href="https://github.com/topics/python" class="main">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="500" height="600" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Doc_(computing)" class="main">
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />

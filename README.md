@@ -16,7 +16,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/congaterori)
 //-->
 
-
+<div align="center">
+  <h2>Contact:</h2>
+</div>
 
 gmail: congaterori@gmail.com
 
@@ -30,13 +32,13 @@ gmail: congaterori@gmail.com
 
 <div align="center">
   <h2>Information:</h2>
+</div>
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=congaterori)](https://github.com/ryo-ma/github-profile-trophy)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congaterori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   ![GitHub metrics](https://metrics.lecoq.io/congaterori)
-</div>
 <div align="center">
   <h2>Program langue i know:</h2>
   <a href="https://github.com/topics/python" class="main">

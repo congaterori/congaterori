@@ -19,7 +19,7 @@ gmail: congaterori@gmail.com
 //-->
 
 <div align="center">
-  <h2>Contact</h2>
+  <h2>Contact:</h2>
 </div>
 
 [<img src='https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp' alt='github' height='100'>](https://github.com/congaterori)

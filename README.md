@@ -20,5 +20,5 @@ gmail: congaterori@gmail.com
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="batch file" src="https://img.shields.io/badge/Batch file-121011?style=for-the-badge&logo=Windows-Terminal&logoColor=white" />
-  <img  scr="https://img.shields.io/endpoint?label=hello&logo=hello&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOoncKvcfs0M" />
+  <img alt="Custom badge" src="https://img.shields.io/endpoint?label=hello&logo=hello&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOoncKvcfs0M">
 </div>

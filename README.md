@@ -15,9 +15,10 @@ gmail: congaterori@gmail.com
 ![GitHub metrics](https://metrics.lecoq.io/congaterori)
 <div align="center">
   <h2>Program langue i know:</h2>
-  <object alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white?link=https://www.youtube.com/watch?v=OoncKvcfs0M"</object>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white?link=https://www.youtube.com/watch?v=OoncKvcfs0M" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
   <img alt="batch file" src="https://img.shields.io/badge/Batch file-121011?style=for-the-badge&logo=Windows-Terminal&logoColor=white" />
+  https://img.shields.io/endpoint?label=hello&logo=hello&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DOoncKvcfs0M
 </div>

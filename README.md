@@ -35,7 +35,7 @@ gmail: congaterori@gmail.com
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congaterori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![GitHub metrics](https://metrics.lecoq.io/congaterori)
+  ![GitHub metrics](https://metrics.lecoq.io/congaterori)
 </div>
 <div align="center">
   <h2>Program langue i know:</h2>

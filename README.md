@@ -16,7 +16,7 @@ gmail: congaterori@gmail.com
 <div align="center">
   <h2>Program langue i know:</h2>
   <a href="https://github.com/topics/python" class="main">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="50" height="60" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="max-width:100%;" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Doc_(computing)" class="main">
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />

@@ -14,7 +14,7 @@ gmail: congaterori@gmail.com
 
 ![GitHub metrics](https://metrics.lecoq.io/congaterori)
 <div align="center">
-  <h3>program langue i know:</h3>
+  ## Program langue i know:
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />

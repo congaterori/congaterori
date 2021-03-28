@@ -14,4 +14,4 @@ gmail: congaterori@gmail.com
 
 ![GitHub metrics](https://metrics.lecoq.io/congaterori)
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB&logo-Python?logocolor=whiter" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python?logocolor=whiter" />

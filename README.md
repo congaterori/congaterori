@@ -16,4 +16,4 @@ gmail: congaterori@gmail.com
 
 ![React Badge](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)
 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo-Python&logocolor=white&?style=for-the-badge" />
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo-Python&logocolor=white?style=for-the-badge" />

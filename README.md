@@ -14,7 +14,7 @@ gmail: congaterori@gmail.com
 
 ![GitHub metrics](https://metrics.lecoq.io/congaterori)
 <div align="center">
-  <h2>Program langue i know:</h2>
+  <h1>Program langue i know:</h1>
   <a href="https://github.com/topics/python" class="main">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   </a>

@@ -12,13 +12,13 @@
   <img src="https://i.imgur.com/IS9k1my.png" width=30%>
 </p>
 
-gmail: congaterori@gmail.com 
-
 <!--
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/congaterori)
 //-->
 
 ## Contact
+
+gmail: congaterori@gmail.com 
 
 [<img src='https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp' alt='github' height='100'>](https://github.com/congaterori)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Science.Khuong)

@@ -58,6 +58,6 @@ gmail: congaterori@gmail.com
     <img alt="batch file" src="https://img.shields.io/badge/Batch file-121011?style=for-the-badge&logo=Windows-Terminal&logoColor=white" />
   </a>
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" class="main">
-    <img alt="Photoshop" src="https://img.shields.io/badge/adobe_photoshop-001833?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+    <img alt="Photoshop" src="https://img.shields.io/badge/adobe_photoshop-0672CB?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </a>
 </div>

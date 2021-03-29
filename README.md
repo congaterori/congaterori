@@ -59,6 +59,5 @@ gmail: congaterori@gmail.com
   </a>
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" class="main">
     <img alt="Photoshop" src="https://img.shields.io/badge/adobe_photoshop-0672CB?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-    <img alt="Photoshop" src="https://img.shields.io/badge/adobe_photoshop-30a8ff?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
   </a>
 </div>

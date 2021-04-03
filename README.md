@@ -39,14 +39,15 @@ gmail: congaterori@gmail.com
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=congaterori&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   ![GitHub metrics](https://metrics.lecoq.io/congaterori)
+  
+<a href="https://en.wikipedia.org/wiki/Cheat_Engine" class="main">
+<img alt="cheat engine" src="https://i.imgur.com/Bm8yk4A.png" width="100">
+</a>
 <div align="center">
   <h2>I have knowledge:</h2>
   <a href="https://github.com/topics/python" class="main">
   <!--<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Cheat_Engine" class="main">
-  <img alt="cheat engine" src="https://i.imgur.com/Bm8yk4A.png" width="100">
   </a>
   <a href="https://en.wikipedia.org/wiki/Doc_(computing)" class="main">
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />

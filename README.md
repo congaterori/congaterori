@@ -65,4 +65,7 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/Cheat_Engine" class="main">
   <img alt="cheat engine" src="https://i.imgur.com/Bm8yk4A.png" width="100">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">
+  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  </a>
 </div>

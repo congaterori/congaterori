@@ -42,6 +42,7 @@ gmail: congaterori@gmail.com
   
 <div align="center">
   <h2>I have knowledge:</h2>
+  <!-- Gifs found on GIPHY made by @devrock -->
   <a href="https://github.com/topics/python" class="main">
   <!--<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">

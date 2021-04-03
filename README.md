@@ -45,6 +45,9 @@ gmail: congaterori@gmail.com
   <!--<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />-->
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Cheat_Engine" class="main">
+  <img alt="cheat engine" src="https://i.imgur.com/Bm8yk4A.png" width="100">
+  </a>
   <a href="https://en.wikipedia.org/wiki/Doc_(computing)" class="main">
   <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
   </a>
@@ -59,8 +62,5 @@ gmail: congaterori@gmail.com
   </a>
   <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop" class="main">
   <img alt="Photoshop" src="https://img.shields.io/badge/adobe_photoshop-0672CB?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Cheat_Engine" class="main">
-  <img alt="cheat engine" src="https://i.imgur.com/Bm8yk4A.png" width="100">
   </a>
 </div>

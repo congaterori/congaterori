@@ -98,6 +98,12 @@ gmail: congaterori@gmail.com
   <a href="https://vi.wikipedia.org/wiki/Bash" class="main">
   <img alt="Bash" src="https://media0.giphy.com/media/j5zY9FKGwp1YVZ2YFV/giphy.gif" width="100">
   </a>
+  <a href="https://en.wikipedia.org/wiki/PowerShell" class="main">
+  <img alt="Powershell" src="https://upload.wikimedia.org/wikipedia/commons/a/af/PowerShell_Core_6.0_icon.png" width="100">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/VBScript" class="main">
+  <img alt="VBScript" src="https://bigcode.files.wordpress.com/2016/11/vbs.png" width="100">
+  </a>
   <h2>Like for me</h2>
   <a href="https://www.facebook.com/johnny20061234" class="main">
   <img alt="page facebook" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="100">

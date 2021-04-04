@@ -104,6 +104,9 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/VBScript" class="main">
   <img alt="VBScript" src="https://bigcode.files.wordpress.com/2016/11/vbs.png" width="100">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Android_Studio" class="main">
+  <img alt="Android Studio" src="https://i.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.webp" width="100">
+  </a>
   <h2>Like for me</h2>
   <a href="https://www.facebook.com/johnny20061234" class="main">
   <img alt="page facebook" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="100">

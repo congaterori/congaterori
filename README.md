@@ -102,5 +102,5 @@ gmail: congaterori@gmail.com
   <a href="https://www.facebook.com/johnny20061234" class="main">
   <img alt="page facebook" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="100">
   </a>
+  <img src="https://i.imgur.com/IidgEki.png">
 </div>
-<img src="https://i.imgur.com/IidgEki.png">

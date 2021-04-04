@@ -95,4 +95,7 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">
   <img alt="Html" src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
   </a>
+  <a href="https://vi.wikipedia.org/wiki/Bash" class="main">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  </a>
 </div>

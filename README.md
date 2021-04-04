@@ -107,6 +107,9 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/Android_Studio" class="main">
   <img alt="Android Studio" src="https://i.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.webp" width="150">
   </a>
+  <a href="https://vi.wikipedia.org/wiki/C%2B%2B" class="main">
+  <img alt="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="100">
+  </a>
   <h2>Like for me</h2>
   <a href="https://www.facebook.com/johnny20061234" class="main">
   <img alt="page facebook" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="100">

@@ -68,6 +68,15 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   </a>
+  <a href="https://www.hackthebox.eu/home/users/profile/210537" class="main">
+  <img alt="Hack The Box" src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=Hack-The-Box&logoColor=white"/>
+  </a>
+  <a href="https://hackaday.io/johnny20061234" class="main">
+  <img alt="Hackaday" src="https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logo=Hackaday&logoColor=white"/>
+  </a>
+  <a href="https://tryhackme.com/p/Johnny20061234" class="main">
+  <img alt="Try Hack Me" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
+  </a>
 </div>
 <br></br>
 <h2>My Google Developer</h2>

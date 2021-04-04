@@ -77,6 +77,9 @@ gmail: congaterori@gmail.com
   <a href="https://tryhackme.com/p/Johnny20061234" class="main">
   <img alt="Try Hack Me" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/Notepad%2B%2B" class="main">
+  <img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=Notepad++&logoColor=white"/>
+  </a>
 </div>
 <br></br>
 <h2>My Google Developer</h2>

@@ -99,6 +99,9 @@ gmail: congaterori@gmail.com
   <img alt="Bash" src="https://media0.giphy.com/media/j5zY9FKGwp1YVZ2YFV/giphy.gif" width="100">
   </a>
   <h2>like for me</h2>
+  <p>click here to goto my page and like</p>
+  <p>|</p>
+  <p>V</p>
   <a href="https://www.facebook.com/johnny20061234" class="main">
   <img alt="page facebook" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="100">
   </a>

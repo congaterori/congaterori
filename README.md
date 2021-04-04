@@ -96,6 +96,6 @@ gmail: congaterori@gmail.com
   <img alt="Html" src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
   </a>
   <a href="https://vi.wikipedia.org/wiki/Bash" class="main">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="Bash" src="https://media0.giphy.com/media/j5zY9FKGwp1YVZ2YFV/giphy.gif" width="100">
   </a>
 </div>

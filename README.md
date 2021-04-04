@@ -68,7 +68,7 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   </a>
-  <a href="" class="main">
-  <img alt="Google Developers" src="https://media3.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif" width="150">
-  </a>
 </div>
+<a href="" class="main">
+<img alt="Google Developers" src="https://media3.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif" width="2000">
+</a>

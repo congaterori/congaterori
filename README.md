@@ -70,7 +70,7 @@ gmail: congaterori@gmail.com
   </a>
 </div>
 <br></br>
-<h2>my Google Developer</h2>
+<h2>My Google Developer</h2>
 <a href="" class="main">
 <img alt="Google Developers" src="https://media3.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif" width="210">
 </a>

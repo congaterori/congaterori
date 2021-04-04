@@ -106,6 +106,5 @@ gmail: congaterori@gmail.com
   </a>
   <br></br>
   <img src="https://i.imgur.com/IidgEki.png">
-  <iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p>
-  <a href="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>
+  <iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>
 </div>

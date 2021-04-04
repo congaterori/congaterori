@@ -98,11 +98,11 @@ gmail: congaterori@gmail.com
   <a href="https://vi.wikipedia.org/wiki/Bash" class="main">
   <img alt="Bash" src="https://media0.giphy.com/media/j5zY9FKGwp1YVZ2YFV/giphy.gif" width="100">
   </a>
-  <h2>like for me</h2>
-  <a href="https://www.facebook.com/johnny20061234" class="main">
-  <img alt="page facebook" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="100">
-  </a>
-  <br></br>
-  <img src="https://i.imgur.com/IidgEki.png">
-  <img src="https://i.imgur.com/xWBxkl4.gif">
 </div>
+<h2>like for me</h2>
+<a href="https://www.facebook.com/johnny20061234" class="main">
+<img alt="page facebook" src="https://media3.giphy.com/media/dxODB9UE879RDqAh3o/giphy.gif" width="100">
+</a>
+<br></br>
+<img src="https://i.imgur.com/IidgEki.png">
+<img src="https://i.imgur.com/xWBxkl4.gif">

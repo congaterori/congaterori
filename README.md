@@ -92,7 +92,6 @@ gmail: congaterori@gmail.com
 
 <div align="center">
   <h2>Trying to find out</h2>
-
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">
   <img alt="Html" src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
   </a>

@@ -80,6 +80,9 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/Notepad%2B%2B" class="main">
   <img alt="Notepad++" src="https://img.shields.io/badge/Notepad%2B%2B-90E59A?style=for-the-badge&logo=Notepad%2B%2B&logoColor=black"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/Hex_editor" class="main">
+  <img alt="HxD Hex Editer" src="https://www.saashub.com/images/app/service_logos/18/6aff68d43bd3/large.png" width="100">
+  </a>
 </div>
 <br></br>
 <h2>My Google Developer</h2>

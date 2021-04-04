@@ -108,6 +108,6 @@ gmail: congaterori@gmail.com
   <img src="https://i.imgur.com/IidgEki.png">
   <iframe src="https://giphy.com/embed/dxn6fRlTIShoeBr69N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hackernoon-hacker-noon-random-pixels-dxn6fRlTIShoeBr69N">via GIPHY</a></p>
 </div>
-<video width="100" controls loop>
+<video width="320" height="240" controls loop>
   <source src="https://i.imgur.com/DnFp6ra.mp4" type="video/mp4">
 </video>

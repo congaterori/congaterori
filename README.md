@@ -89,3 +89,11 @@ gmail: congaterori@gmail.com
 <a href="https://google.dev/u/116572691026909085889" class="main">
 <img alt="Google Developers" src="https://media3.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif" width="210">
 </a>
+
+<div align="center">
+  <h2>Trying to find out</h2>
+
+  <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">
+  <img alt="Html" src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+  </a>
+</div>

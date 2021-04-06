@@ -85,11 +85,22 @@ gmail: congaterori@gmail.com
   </a>
 </div>
 <br></br>
-<h2>My Google Developer</h2>
-<a href="https://google.dev/u/116572691026909085889" class="main">
-<img alt="Google Developers" src="https://media3.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif" width="210">
+<h2>My Google Developer badges</h2>
+<a href="https://google.dev/badges/activity/android/install-android-studio" class="main">
+<img alt="Android Studio User" src="https://google.dev/badges/activity/android/install-android-studio/badge.svg" width="100">
 </a>
-
+<a href="https://google.dev/badges/activity/android/building-my-first-app" class="main">
+<img alt="First Android app" src="https://google.dev/badges/activity/android/building-my-first-app/badge.svg" width="100">
+</a>
+<a href="https://google.dev/badges/codelabs/first-codelab" class="main">
+<img alt="First Codelab Completed" src="https://google.dev/badges/codelabs/first-codelab/firstcodelab.svg" width="100">
+</a>
+<a href="https://google.dev/badges/profile/created-profile" class="main">
+<img alt="Created Google Developer Profile" src="https://google.dev/badges/profile/created-profile/created_profile.svg" width="100">
+</a>
+<a href="https://google.dev/badges/events/beta" class="main">
+<img alt="Google Developer Profile Beta User" src="https://google.dev/badges/events/beta/beta-user.svg" width="100">
+</a>
 <div align="center">
   <h2>Trying to find out</h2>
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">

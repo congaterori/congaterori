@@ -102,7 +102,7 @@ gmail: congaterori@gmail.com
 <img alt="Google Developer Profile Beta User" src="https://google.dev/badges/events/beta/beta-user.svg" width="100">
 </a>
 <div align="center">
-  <h2>Trying to find out</h2>
+  <h2>Trying to learn</h2>
   <a href="https://en.wikipedia.org/wiki/Visual_Studio_Code" class="main">
   <img alt="Html" src="https://media0.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
   </a>

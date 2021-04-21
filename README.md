@@ -128,4 +128,5 @@ gmail: congaterori@gmail.com
   <img src="https://i.imgur.com/IidgEki.png">
   <img src="https://i.imgur.com/xWBxkl4.gif">
 </div>
-<a href="https://archiveprogram.github.com/" class="d-inline-block" data-hovercard-type="acv_badge" data-hovercard-url="/users/congaterori/acv/hovercard"> <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"> </a>
+<h2>My Achievements</h2>
+<a href="https://archiveprogram.github.com/"> <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"> </a>

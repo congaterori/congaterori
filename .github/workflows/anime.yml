@@ -28,11 +28,11 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: congaterori/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
           token: ${{ secrets.TOKEN }}
-          user: johnny20061234
+          user: congaterori
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok

@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congaterori&show_icons=true&theme=radical)
 
-![Metrics](https://github.com/congaterori/congaterori/blob/master/github-metrics.svg)
+![Metrics](https://github.com/congaterori/congaterori/blob/master/metrics.svg)
 ## visit time
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@congaterori?theme=gelbooru"></a>

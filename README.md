@@ -130,7 +130,3 @@ gmail: congaterori@gmail.com
 </div>
 <h2>My Achievements</h2>
 <a href="https://archiveprogram.github.com/"> <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"> </a>
-<form action="/action_page.php">
-  <label for="fname">First name:</label>
-  <input type="text" id="fname" name="fname"><br><br>
-</form>

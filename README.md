@@ -130,3 +130,4 @@ gmail: congaterori@gmail.com
 </div>
 <h2>My Achievements</h2>
 <a href="https://archiveprogram.github.com/"> <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"> </a>
+[<img align="right" width="400" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.anilist.svg">](https://github.com/lowlighter/metrics)

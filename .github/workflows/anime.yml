@@ -31,7 +31,7 @@ jobs:
       - uses: congaterori/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.token }}
+          token: ${{ secrets.TOKEN }}
           user: congaterori
           template: classic
           base: header, activity, community, repositories, metadata

@@ -134,3 +134,5 @@ gmail: congaterori@gmail.com
 </div>
 <h2>My Achievements</h2>
 <a href="https://archiveprogram.github.com/"> <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"> </a>
+
+![Metrics](https://metrics.lecoq.io/congaterori?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FBangkok)

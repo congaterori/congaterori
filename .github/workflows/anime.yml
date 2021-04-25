@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.TOKEN }}
           user: congaterori
           template: classic
-          base: header, activity, community, repositories, metadata
+          #base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
           plugin_anilist: yes
           plugin_anilist_limit.characters: 22

@@ -2,6 +2,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congaterori&show_icons=true&theme=radical)
 
+## visit time
+
+<a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.readme"></a>
+
 ## Quote: nothing is impossible
 
 <p align="center">

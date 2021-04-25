@@ -30,6 +30,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: congaterori/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.token }}
           user: congaterori
           template: classic

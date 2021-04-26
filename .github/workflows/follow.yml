@@ -10,6 +10,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics_follow.svg
+          token: ${{ secrets.TOKEN }}
+          config_timezone: Asia/Bangkok
           plugin_people: yes
           plugin_people_types: followers, thanks
           plugin_people_limit: 28

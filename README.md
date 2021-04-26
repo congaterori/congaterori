@@ -29,8 +29,6 @@
 
 </a>
 
-![Metrics](https://github.com/congaterori/congaterori/blob/master/metrics_follow.svg)
-
 ## visit time
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@congaterori?theme=gelbooru"></a>

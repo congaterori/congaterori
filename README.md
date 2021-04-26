@@ -1,9 +1,11 @@
 # Hello 👋, my name is johnny
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congaterori&show_icons=true&theme=radical)
-<a href="https://www.facebook.com/johnny20061234" class="main">
+
+<a href="https://anilist.co/user/johnny20061234/" class="main">
 ![Metrics](https://github.com/congaterori/congaterori/blob/master/metrics.svg)
 </a>
+
 ## visit time
 
 <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@congaterori?theme=gelbooru"></a>

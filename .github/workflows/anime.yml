@@ -12,9 +12,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          user: congaterori
+          plugin_anilist_user: johnny20061234
           filename: metrics.svg
           token: ${{ secrets.TOKEN }}
-          user: congaterori
           #template: classic
           #base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
@@ -24,4 +25,3 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: .user.login

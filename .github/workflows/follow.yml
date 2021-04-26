@@ -1,0 +1,20 @@
+name: Metrics
+
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_people: yes
+          plugin_people_types: followers, thanks
+          plugin_people_limit: 28
+          plugin_people_size: 28
+          plugin_people_identicons: no
+          plugin_people_thanks: lowlighter, octocat
+          plugin_people_sponsors_custom: octocat
+          plugin_people_shuffle: yes

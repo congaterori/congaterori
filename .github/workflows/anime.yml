@@ -14,7 +14,8 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.TOKEN }}
-          user: johnny20061234
+          user: congaterori
+          useranilist: johnny20061234
           #template: classic
           #base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok
@@ -24,4 +25,4 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites
           plugin_anilist_shuffle: yes
-          plugin_anilist_user: .user.login
+          plugin_anilist_user: .useranilist.login

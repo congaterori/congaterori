@@ -1,5 +1,12 @@
 # Hello 👋, my name is johnny
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=pythonA.I)](https://github.com/congaterori/pythonA.I)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=pokemon)](https://github.com/congaterori/pokemon)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=tet)](https://github.com/congaterori/tet)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=Windows_virtual_PC)](https://github.com/congaterori/Windows_virtual_PC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=congcumofile.bat)](https://github.com/congaterori/congcumofile.bat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=osint)](https://github.com/congaterori/osint)
+
 <pre>
  /$$   /$$           /$$ /$$                                                                                                 /$$                                     /$$                                    
 | $$  | $$          | $$| $$                                                                                                |__/                                    | $$                                    

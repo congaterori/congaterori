@@ -7,10 +7,42 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=congcumofile.bat)](https://github.com/congaterori/congcumofile.bat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=osint)](https://github.com/congaterori/osint)
 
+<div align="center">
+  <h2>Special thanks</h2>
+</div>
+
 <table>
   <tr>
-    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
-    <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3?s=100" width="100px;" alt=""/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars.githubusercontent.com/u/22963968?v=4" width="100px;" alt=""/><br /><sub>
+        <b>Simon Lecoq</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/journey-ad">
+        <img src="https://avatars.githubusercontent.com/u/16256221?v=4" width="100px;" alt=""/><br /><sub>
+        <b>Jad</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Almas-Ali">
+        <img src="https://avatars.githubusercontent.com/u/57622296?v=4" width="100px;" alt=""/><br /><sub>
+        <b>Md. Almas Ali</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Psi505">
+        <img src="https://avatars.githubusercontent.com/u/70059460?v=4" width="100px;" alt=""/><br /><sub>
+        <b>Psi505</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Empyreal96">
+        <img src="https://avatars.githubusercontent.com/u/64583248?v=4" width="100px;" alt=""/><br /><sub>
+        <b>Empyreal96</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/pinchXOXO">
+        <img src="https://avatars.githubusercontent.com/u/68501799?v=4" width="100px;" alt=""/><br /><sub>
+        <b>Devy Santo</b></sub></a><br />
+    </td>
   </tr>
 </table>
 

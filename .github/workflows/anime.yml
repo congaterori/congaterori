@@ -27,9 +27,8 @@ jobs:
           plugin_anilist_shuffle: yes
           plugin_people: yes
           plugin_people_types: followers, thanks
-          plugin_people_limit: 50
-          plugin_people_size: 50
+          plugin_people_limit: 30
+          plugin_people_size: 70
           plugin_people_identicons: no
           plugin_people_thanks: lowlighter, journey-ad, Almas-Ali, Psi505, Empyreal96
-          plugin_people_sponsors_custom: batch-cmd-project
           plugin_people_shuffle: yes

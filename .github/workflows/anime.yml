@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
-        #with:
+        with:
           user: congaterori
           plugin_anilist_user: johnny20061234
           filename: metrics.svg

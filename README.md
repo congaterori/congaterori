@@ -43,17 +43,32 @@
         <img src="https://avatars.githubusercontent.com/u/68501799?v=4" width="100px;" alt=""/><br /><sub>
         <b>Devy Santo</b></sub></a><br />
     </td>
-        <td align="center">
+    <td align="center">
       <a href="https://www.facebook.com/jairah.mazo.5">
         <img src="https://scontent-xsp1-3.xx.fbcdn.net/v/t1.6435-9/94757387_555277892035735_616941927169785856_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Vgbx31FJsfsAX8UyB8o&tn=Jy6pjDZ3JFSIRgQM&_nc_ht=scontent-xsp1-3.xx&oh=71ccb4e4184a2900bdb6e1e50202e065&oe=60AE244B" width="100px;" alt=""/><br /><sub>
         <b>Drox</b></sub></a><br />
+        <a href="https://www.youtube.com/channel/UCcAictadoQIHrd2FAbjm3Jg/videos" title="Youtube channle">▶️</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/quocdinhit97">
         <img src="https://avatars.githubusercontent.com/u/39240384?v=4" width="100px;" alt=""/><br /><sub>
         <b>Phùng Quốc Định</b></sub></a><br />
+        <a href="https://www.youtube.com/c/Ph%C3%B9ngQu%E1%BB%91c%C4%90%E1%BB%8BnhC%E1%BB%9DH%C3%B3/videos" title="Youtube channle">▶️</a>
     </td>
-  </tr>
+    <td align="center">
+      <a href="https://github.com/quocdinhit97">
+        <img src="https://yt3.ggpht.com/ytc/AAUvwnhbk23drgLz8aNOHF0_seepzaDDlYPbOIRalVoT=s48-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
+        <b>việt anh Dương</b></sub></a><br />
+        <a href="https://www.youtube.com/watch?v=a0UOtNtoem0" title="Youtube channle">▶️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/KhanradCoder">
+        <img src="https://yt3.ggpht.com/ytc/AAUvwngr1DS6LViC3cLfo47odHDU8_12X16i3sSWTxygYg=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
+        <b>Khanrad</b></sub></a><br />
+        <a href="https://www.youtube.com/c/Khanradcoder/videos" title="Youtube channle">▶️</a>
+    </td>
 </table>
 
 <pre>

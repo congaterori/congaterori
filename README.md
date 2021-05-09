@@ -48,6 +48,11 @@
         <img src="https://scontent-xsp1-3.xx.fbcdn.net/v/t1.6435-9/94757387_555277892035735_616941927169785856_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Vgbx31FJsfsAX8UyB8o&tn=Jy6pjDZ3JFSIRgQM&_nc_ht=scontent-xsp1-3.xx&oh=71ccb4e4184a2900bdb6e1e50202e065&oe=60AE244B" width="100px;" alt=""/><br /><sub>
         <b>Drox</b></sub></a><br />
     </td>
+    <td align="center">
+      <a href="https://github.com/quocdinhit97">
+        <img src="https://avatars.githubusercontent.com/u/39240384?v=4" width="100px;" alt=""/><br /><sub>
+        <b>Phùng Quốc Định</b></sub></a><br />
+    </td>
   </tr>
 </table>
 

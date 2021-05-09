@@ -27,11 +27,13 @@
       <a href="https://github.com/Almas-Ali">
         <img src="https://avatars.githubusercontent.com/u/57622296?v=4" width="100px;" alt=""/><br /><sub>
         <b>Md. Almas Ali</b></sub></a><br />
+        <a href="https://www.youtube.com/channel/UCn6ppDWXM_7uw_Y0zBDYFAQ/videos" title="Youtube channle">▶️</a>
     </td>
     <td align="center">
       <a href="https://github.com/Psi505">
         <img src="https://avatars.githubusercontent.com/u/70059460?v=4" width="100px;" alt=""/><br /><sub>
         <b>Psi505</b></sub></a><br />
+        <a href="https://www.youtube.com/channel/UCFbkIVUCVsIgjOWoxXom_6Q/videos" title="Youtube channle">▶️</a>
     </td>
     <td align="center">
       <a href="https://github.com/Empyreal96">
@@ -68,6 +70,36 @@
         <img src="https://yt3.ggpht.com/ytc/AAUvwngr1DS6LViC3cLfo47odHDU8_12X16i3sSWTxygYg=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
         <b>Khanrad</b></sub></a><br />
         <a href="https://www.youtube.com/c/Khanradcoder/videos" title="Youtube channle">▶️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JoezCodes101">
+        <img src="https://yt3.ggpht.com/ytc/AAUvwnjnIgDM7q0FhN4_tKgCVjULu6BKe9AVfVbVgmaOwg=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
+        <b>JoezCodes101</b></sub></a><br />
+        <a href="https://www.youtube.com/c/joezcodes101/videos" title="Youtube channle">▶️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Batch-Man">
+        <img src="https://yt3.ggpht.com/ytc/AAUvwnjmhMNcMJEsoJ_QK9m5Bpl1N1YUYRPlNWTDHAar=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
+        <b>Batch Man</b></sub></a><br />
+        <a href="https://www.youtube.com/channel/UCfbCtWd_4Hh6zDwTWm8PCtw/videos" title="Youtube channle">▶️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/theBATeam">
+        <img src="https://yt3.ggpht.com/ytc/AAUvwnjc-joxg3ol1-qEoxaGMTLNSgbQUUBy8wzgsrzNIA=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
+        <b>Batch Man</b></sub></a><br />
+        <a href="https://www.youtube.com/c/TheBATeam/videos" title="Youtube channle">▶️</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/TheKvc">
+        <img src="https://avatars.githubusercontent.com/u/46124093?v=4" width="100px;" alt=""/><br /><sub>
+        <b>TheKvc</b></sub></a><br />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/anic17">
+        <img src="https://avatars.githubusercontent.com/u/58483910?v=4" width="100px;" alt=""/><br /><sub>
+        <b>anic17</b></sub></a><br />
     </td>
 </table>
 

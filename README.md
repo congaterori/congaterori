@@ -47,7 +47,7 @@
         <b>Devy Santo</b></sub></a><br />
     </td>
     <td align="center">
-      <a href="https://www.facebook.com/jairah.mazo.5">
+      <a href="https://github.com/droxtool">
         <img src="https://scontent-xsp1-3.xx.fbcdn.net/v/t1.6435-9/94757387_555277892035735_616941927169785856_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=Vgbx31FJsfsAX8UyB8o&tn=Jy6pjDZ3JFSIRgQM&_nc_ht=scontent-xsp1-3.xx&oh=71ccb4e4184a2900bdb6e1e50202e065&oe=60AE244B" width="100px;" alt=""/><br /><sub>
         <b>Drox</b></sub></a><br />
         <a href="https://www.youtube.com/channel/UCcAictadoQIHrd2FAbjm3Jg/videos" title="Youtube channle">▶️</a>
@@ -108,6 +108,11 @@
       <a href="https://github.com/black79hacker">
         <img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/186880305_507902166920437_5200027582511760267_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vHtm7i-76N4AX_EisUb&_nc_ht=scontent-hkg4-1.xx&oh=2de57d0d1d145253e4aa18bbf30527f1&oe=60CEF227" width="100px;" alt=""/><br /><sub>
         <b>Black79hacker</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/toyeeb.olamide.7">
+        <img src="https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.6435-9/47463227_2308913329343098_2864812077707427840_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=-AiHKYVSIFYAX8UxYZx&_nc_ht=scontent.fsgn8-1.fna&oh=d277d7c125d8a0740b6168d334a80fe0&oe=60D080CD" width="100px;" alt=""/><br /><sub>
+        <b>Toyeeb Olamide</b></sub></a><br />
     </td>
 </table>
 

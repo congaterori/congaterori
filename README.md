@@ -87,16 +87,16 @@
         <img src="https://yt3.ggpht.com/ytc/AAUvwnjmhMNcMJEsoJ_QK9m5Bpl1N1YUYRPlNWTDHAar=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
         <b>Batch Man</b></sub></a><br />
         <a href="https://www.youtube.com/channel/UCfbCtWd_4Hh6zDwTWm8PCtw/videos" title="Youtube channle">▶️</a>
-        <a href="https://batch-man.com/" title="Website">🌏</a>
         <a href="https://discord.com/invite/dMtQD4f" title="Discord">🎮</a>
+        <a href="https://batch-man.com/" title="Website">🌏</a>
     </td>
     <td align="center">
       <a href="https://github.com/theBATeam">
         <img src="https://yt3.ggpht.com/ytc/AAUvwnjc-joxg3ol1-qEoxaGMTLNSgbQUUBy8wzgsrzNIA=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
         <b>Batch Man</b></sub></a><br />
         <a href="https://www.youtube.com/c/TheBATeam/videos" title="Youtube channle">▶️</a>
-        <a href="http://www.thebateam.org/" title="Website">🌏</a>
         <a href="https://discord.com/invite/D9CGbFUq" title="Discord">🎮</a>
+        <a href="http://www.thebateam.org/" title="Website">🌏</a>
     </td>
     <td align="center">
       <a href="https://github.com/TheKvc">

@@ -28,6 +28,9 @@
         <img src="https://avatars.githubusercontent.com/u/57622296?v=4" width="100px;" alt=""/><br /><sub>
         <b>Md. Almas Ali</b></sub></a><br />
         <a href="https://www.youtube.com/channel/UCn6ppDWXM_7uw_Y0zBDYFAQ/videos" title="Youtube channle">▶️</a>
+        <a href="https://almasali.net/" title="Website">🌏</a>
+        <a href="https://twitter.com/Md_Almas_Ali" title="Twitter">🐦</a>
+        <a href="https://www.instagram.com/md.almas.ali/" title="Instagram">📷</a>
     </td>
     <td align="center">
       <a href="https://github.com/Psi505">
@@ -35,6 +38,7 @@
         <b>Psi505</b></sub></a><br />
         <a href="https://www.youtube.com/channel/UCFbkIVUCVsIgjOWoxXom_6Q/videos" title="Youtube channle">▶️</a>
         <a href="https://discord.com/invite/Mvhw37JkYx" title="Discord">🎮</a>
+        <a href="https://twitter.com/Psi0x1F9" title="Instagram">🐦</a>
     </td>
     <td align="center">
       <a href="https://github.com/Empyreal96">
@@ -83,6 +87,7 @@
         <img src="https://yt3.ggpht.com/ytc/AAUvwnjmhMNcMJEsoJ_QK9m5Bpl1N1YUYRPlNWTDHAar=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
         <b>Batch Man</b></sub></a><br />
         <a href="https://www.youtube.com/channel/UCfbCtWd_4Hh6zDwTWm8PCtw/videos" title="Youtube channle">▶️</a>
+        <a href="https://batch-man.com/" title="Website">🌏</a>
         <a href="https://discord.com/invite/dMtQD4f" title="Discord">🎮</a>
     </td>
     <td align="center">
@@ -90,6 +95,7 @@
         <img src="https://yt3.ggpht.com/ytc/AAUvwnjc-joxg3ol1-qEoxaGMTLNSgbQUUBy8wzgsrzNIA=s88-c-k-c0x00ffffff-no-rj" width="100px;" alt=""/><br /><sub>
         <b>Batch Man</b></sub></a><br />
         <a href="https://www.youtube.com/c/TheBATeam/videos" title="Youtube channle">▶️</a>
+        <a href="http://www.thebateam.org/" title="Website">🌏</a>
         <a href="https://discord.com/invite/D9CGbFUq" title="Discord">🎮</a>
     </td>
     <td align="center">

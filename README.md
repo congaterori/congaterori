@@ -31,6 +31,7 @@
         <a href="https://almasali.net/" title="Website">🌏</a>
         <a href="https://twitter.com/Md_Almas_Ali" title="Twitter">🐦</a>
         <a href="https://www.instagram.com/md.almas.ali/" title="Instagram">📷</a>
+        <a href="https://linktr.ee/almasali" title="Linktree">🌲</a>
     </td>
     <td align="center">
       <a href="https://github.com/Psi505">
@@ -39,6 +40,7 @@
         <a href="https://www.youtube.com/channel/UCFbkIVUCVsIgjOWoxXom_6Q/videos" title="Youtube channle">▶️</a>
         <a href="https://discord.com/invite/Mvhw37JkYx" title="Discord">🎮</a>
         <a href="https://twitter.com/Psi0x1F9" title="Instagram">🐦</a>
+        <a href="https://linktr.ee/Psi505" title="Linktree">🌲</a>
     </td>
     <td align="center">
       <a href="https://github.com/Empyreal96">

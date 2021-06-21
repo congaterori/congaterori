@@ -114,7 +114,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/black79hacker">
-        <img src="https://scontent-hkg4-1.xx.fbcdn.net/v/t1.6435-9/186880305_507902166920437_5200027582511760267_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=vHtm7i-76N4AX_EisUb&_nc_ht=scontent-hkg4-1.xx&oh=2de57d0d1d145253e4aa18bbf30527f1&oe=60CEF227" width="100px;" alt=""/><br /><sub>
+        <img src="https://avatars.githubusercontent.com/u/84614297?v=4" width="100px;" alt=""/><br /><sub>
         <b>Black79hacker</b></sub></a><br />
     </td>
     <td align="center">

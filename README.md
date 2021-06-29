@@ -171,6 +171,9 @@
 gmail: congaterori@gmail.com
 <p align="center">
   <a href="mailto:congaterori@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
+  <a href="https://linktr.ee/johnny20061234" class="main">
+    <img alt="linktree" src="https://pushworth.com/wp-content/uploads/2021/02/LinkTree.png" width="100">
+  </a>
 </p>
 
 [<img src='https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp' alt='github' height='100'>](https://github.com/congaterori)

@@ -285,4 +285,5 @@ gmail: congaterori@gmail.com
 <h2>My Achievements</h2>
 <a href="https://archiveprogram.github.com/"> <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"> </a>
 <h2>VRChat</h2>
-<img src="https://i.imgur.com/RALDmS1.png" alt="VRChat card">
+<!--old https://i.imgur.com/RALDmS1.png-->
+<img src="https://i.imgur.com/Xv66ylV.png" alt="VRChat card">

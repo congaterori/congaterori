@@ -54,7 +54,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/droxtool">
-        <img src="https://i.imgur.com/bmBnVg4.jpg" alt=""/><br /><sub>
+        <img src="https://i.imgur.com/bmBnVg4.jpg" width="100px;" alt=""/><br /><sub>
         <b>Drox</b></sub></a><br />
         <a href="https://www.youtube.com/channel/UCcAictadoQIHrd2FAbjm3Jg/videos" title="Youtube channle">▶️</a>
     </td>

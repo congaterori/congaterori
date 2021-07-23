@@ -54,7 +54,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/droxtool">
-        <img src="https://scontent.fvca1-1.fna.fbcdn.net/v/t1.6435-9/94757387_555277892035735_616941927169785856_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=TRDnVi5BprcAX9_zD2v&_nc_ht=scontent.fvca1-1.fna&oh=c874dc8252a99dbb1f46a7a08020d84e&oe=60D5B14B" width="100px;" alt=""/><br /><sub>
+        <img src="https://i.imgur.com/bmBnVg4.jpg" alt=""/><br /><sub>
         <b>Drox</b></sub></a><br />
         <a href="https://www.youtube.com/channel/UCcAictadoQIHrd2FAbjm3Jg/videos" title="Youtube channle">▶️</a>
     </td>
@@ -119,7 +119,7 @@
     </td>
     <td align="center">
       <a href="https://www.facebook.com/toyeeb.olamide.7">
-        <img src="https://scontent.fsgn8-1.fna.fbcdn.net/v/t1.6435-9/47463227_2308913329343098_2864812077707427840_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=-AiHKYVSIFYAX8UxYZx&_nc_ht=scontent.fsgn8-1.fna&oh=d277d7c125d8a0740b6168d334a80fe0&oe=60D080CD" width="100px;" alt=""/><br /><sub>
+        <img src="https://i.imgur.com/hGZqnEY.jpg" width="100px;" alt=""/><br /><sub>
         <b>Toyeeb Olamide</b></sub></a><br />
     </td>
 </table>

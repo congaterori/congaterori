@@ -247,7 +247,7 @@ gmail: congaterori@gmail.com
 <img alt="First Android app" src="https://google.dev/badges/activity/android/building-my-first-app/badge.svg" width="100">
 </a>
 <a href="https://google.dev/badges/codelabs/first-codelab" class="main">
-<img alt="First Codelab Completed" src="https://google.dev/badges/codelabs/first-codelab/firstcodelab.svg" width="100">
+<img alt="First Codelab Completed" src="https://developers.google.com/profile/badges/codelabs/first-codelab/badge.svg" width="100">
 </a>
 <a href="https://google.dev/badges/profile/created-profile" class="main">
 <img alt="Created Google Developer Profile" src="https://google.dev/badges/profile/created-profile/created_profile.svg" width="100">

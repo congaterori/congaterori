@@ -284,6 +284,10 @@ gmail: congaterori@gmail.com
 </div>
 <h2>My Achievements</h2>
 <a href="https://archiveprogram.github.com/"> <img alt="Arctic Code Vault Contributor" width="64px" src="https://github.githubassets.com/images/modules/profile/badge--acv-64.png"> </a>
+<h2>My Badges</h2>
+<a href="https://www.deviantart.com/johnny20061234"> <img alt="llama super" width="64px" src="https://st.deviantart.net/badges/llama_super.gif"> </a>
+<a href="https://www.deviantart.com/johnny20061234"> <img alt="tutorial cat" width="64px" src="https://st.deviantart.net/badges/tutorial_cat.gif"> </a>
+<a href="https://www.deviantart.com/johnny20061234"> <img alt="tutorial badge october" width="64px" src="https://st.deviantart.net/badges/tutorial_badge_october.gif"> </a>
 <h2>VRChat</h2>
 <!--old https://i.imgur.com/RALDmS1.png-->
 <img src="https://i.imgur.com/Xv66ylV.png" alt="VRChat card">

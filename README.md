@@ -122,6 +122,16 @@
         <img src="https://i.imgur.com/hGZqnEY.jpg" width="100px;" alt=""/><br /><sub>
         <b>Toyeeb Olamide</b></sub></a><br />
     </td>
+    <td align="center">
+      <a href="https://github.com/seth-coder">
+        <img src="https://avatars.githubusercontent.com/u/95700543?v=4" width="100px;" alt=""/><br /><sub>
+        <b>seth-coder</b></sub></a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/kelly-samurai">
+        <img src="https://avatars.githubusercontent.com/u/88000879?v=4" width="100px;" alt=""/><br /><sub>
+        <b>kelly_samurai</b></sub></a><br />
+    </td>
 </table>
 
 <pre>

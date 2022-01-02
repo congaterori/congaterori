@@ -7,7 +7,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=congcumofile.bat)](https://github.com/congaterori/congcumofile.bat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=congaterori&repo=osint)](https://github.com/congaterori/osint)
 
-## Happy new year!
+## Happy new year! 2022
 ![2022](https://user-images.githubusercontent.com/46470547/147869626-7ccacbfe-3248-465c-a84b-95d4a519f93a.png)
 
 <div align="center">

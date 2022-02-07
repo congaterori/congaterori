@@ -302,8 +302,12 @@ gmail: congaterori@gmail.com
 <a href="https://www.deviantart.com/johnny20061234"> <img alt="tutorial cat" width="64px" src="https://st.deviantart.net/badges/tutorial_cat.gif"> </a>
 <a href="https://www.deviantart.com/johnny20061234"> <img alt="tutorial badge october" width="64px" src="https://st.deviantart.net/badges/tutorial_badge_october.gif"> </a>
 <h2>War Thunder Awards</h2>
-<a href="https://user-images.githubusercontent.com/46470547/152778631-2bceb3b5-5b9b-43c2-846d-aed31e5fa647.png"> <img alt="Rank does not matter" width="64px" src="https://user-images.githubusercontent.com/46470547/152778472-9c655e82-5fe3-4e8a-972c-b09bb6e5d3bd.png"> </a>
-<a href=""> <img alt="llama super" width="64px" src=""> </a>
+<a href="https://i.imgur.com/zOYlqH6.png"> <img alt="Rank does not matter" width="75px" src="https://wiki.warthunder.com/images/1/1c/Award-rankdoesnotmatter.png"> </a>
+<a href="https://i.imgur.com/zbQPXsO.png"> <img alt="Supporting Fire" width="75px" src="https://wiki.warthunder.com/images/5/5f/Award-supportingfire.png"> </a>
+<a href="https://i.imgur.com/FMj4k61.png"> <img alt="Tank Rescuer" width="75px" src="https://wiki.warthunder.com/images/e/e8/Award-tankrescuer.png"> </a>
+<a href="https://i.imgur.com/3mFhNH5.png"> <img alt="Teamwork" width="75px" src="https://wiki.warthunder.com/images/6/6e/Award-teamwork.png"> </a>
+<a href="https://i.imgur.com/ezdbP5v.png"> <img alt="Safe and Sound: Fighter" width="75px" src="https://wiki.warthunder.com/images/5/5f/Award-SafeAndSound-Fighter.png"> </a>
+<a href="https://i.imgur.com/L9GJjCY.png"> <img alt="Safe and Sound: Fighter" width="75px" src="https://wiki.warthunder.com/images/6/65/Award-adamant.png"> </a>
 <h2>VRChat</h2>
 <!--old https://i.imgur.com/RALDmS1.png-->
 <img src="https://i.imgur.com/Xv66ylV.png" alt="VRChat card">

@@ -301,6 +301,9 @@ gmail: congaterori@gmail.com
 <a href="https://www.deviantart.com/johnny20061234"> <img alt="llama super" width="64px" src="https://st.deviantart.net/badges/llama_super.gif"> </a>
 <a href="https://www.deviantart.com/johnny20061234"> <img alt="tutorial cat" width="64px" src="https://st.deviantart.net/badges/tutorial_cat.gif"> </a>
 <a href="https://www.deviantart.com/johnny20061234"> <img alt="tutorial badge october" width="64px" src="https://st.deviantart.net/badges/tutorial_badge_october.gif"> </a>
+<h2>War Thunder Awards</h2>
+<a href="https://user-images.githubusercontent.com/46470547/152778631-2bceb3b5-5b9b-43c2-846d-aed31e5fa647.png"> <img alt="Rank does not matter" width="64px" src="https://user-images.githubusercontent.com/46470547/152778472-9c655e82-5fe3-4e8a-972c-b09bb6e5d3bd.png"> </a>
+<a href=""> <img alt="llama super" width="64px" src=""> </a>
 <h2>VRChat</h2>
 <!--old https://i.imgur.com/RALDmS1.png-->
 <img src="https://i.imgur.com/Xv66ylV.png" alt="VRChat card">

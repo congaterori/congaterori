@@ -308,6 +308,8 @@ gmail: congaterori@gmail.com
 <a href="https://i.imgur.com/3mFhNH5.png"> <img alt="Teamwork" width="75px" src="https://wiki.warthunder.com/images/6/6e/Award-teamwork.png"> </a>
 <a href="https://i.imgur.com/ezdbP5v.png"> <img alt="Safe and Sound: Fighter" width="75px" src="https://wiki.warthunder.com/images/5/5f/Award-SafeAndSound-Fighter.png"> </a>
 <a href="https://i.imgur.com/L9GJjCY.png"> <img alt="Safe and Sound: Fighter" width="75px" src="https://wiki.warthunder.com/images/6/65/Award-adamant.png"> </a>
+<h2>War Thunder</h2>
+<img src="https://i.imgur.com/tCguvqp.png" alt="VRChat card">
 <h2>VRChat</h2>
 <!--old https://i.imgur.com/RALDmS1.png-->
 <img src="https://i.imgur.com/Xv66ylV.png" alt="VRChat card">

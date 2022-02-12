@@ -307,7 +307,9 @@ gmail: congaterori@gmail.com
 <a href="https://i.imgur.com/FMj4k61.png"> <img alt="Tank Rescuer" width="75px" src="https://wiki.warthunder.com/images/e/e8/Award-tankrescuer.png"> </a>
 <a href="https://i.imgur.com/3mFhNH5.png"> <img alt="Teamwork" width="75px" src="https://wiki.warthunder.com/images/6/6e/Award-teamwork.png"> </a>
 <a href="https://i.imgur.com/ezdbP5v.png"> <img alt="Safe and Sound: Fighter" width="75px" src="https://wiki.warthunder.com/images/5/5f/Award-SafeAndSound-Fighter.png"> </a>
-<a href="https://i.imgur.com/L9GJjCY.png"> <img alt="Safe and Sound: Fighter" width="75px" src="https://wiki.warthunder.com/images/6/65/Award-adamant.png"> </a>
+<a href="https://i.imgur.com/L9GJjCY.png"> <img alt="Adamant" width="75px" src="https://wiki.warthunder.com/images/6/65/Award-adamant.png"> </a>
+<a href="https://i.imgur.com/YQWaD5U.png"> <img alt="Avenger" width="75px" src="https://wiki.warthunder.com/images/a/a3/Award-avenger.png"> </a>
+<a href="https://i.imgur.com/fnWZG23.png"> <img alt="Balancer" width="75px" src="https://wiki.warthunder.com/images/2/2c/Award-balancer.png"> </a>
 <h2>War Thunder</h2>
 <img src="https://i.imgur.com/tCguvqp.png" alt="VRChat card">
 <h2>VRChat</h2>

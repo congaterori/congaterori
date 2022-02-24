@@ -310,6 +310,7 @@ gmail: congaterori@gmail.com
 <a href="https://i.imgur.com/L9GJjCY.png"> <img alt="Adamant" width="75px" src="https://wiki.warthunder.com/images/6/65/Award-adamant.png"> </a>
 <a href="https://i.imgur.com/YQWaD5U.png"> <img alt="Avenger" width="75px" src="https://wiki.warthunder.com/images/a/a3/Award-avenger.png"> </a>
 <a href="https://i.imgur.com/fnWZG23.png"> <img alt="Balancer" width="75px" src="https://wiki.warthunder.com/images/2/2c/Award-balancer.png"> </a>
+<a href="https://i.imgur.com/NSgrppM.png"> <img alt="The Best Squad" width="75px" src="https://wiki.warthunder.com/images/9/93/Award-thebestsquad.png"> </a>
 <h2>War Thunder</h2>
 <img src="https://i.imgur.com/tCguvqp.png" alt="VRChat card">
 <h2>VRChat</h2>

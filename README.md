@@ -312,7 +312,9 @@ gmail: congaterori@gmail.com
 <a href="https://i.imgur.com/fnWZG23.png"> <img alt="Balancer" width="75px" src="https://wiki.warthunder.com/images/2/2c/Award-balancer.png"> </a>
 <a href="https://i.imgur.com/NSgrppM.png"> <img alt="The Best Squad" width="75px" src="https://wiki.warthunder.com/images/9/93/Award-thebestsquad.png"> </a>
 <a href="https://i.imgur.com/l5SCzDM.png"> <img alt="Eye for Eye" width="75px" src="https://wiki.warthunder.com/images/a/ac/Award-eyeforeye.png"> </a>
-<a href="https://i.imgur.com/GVQe1Ed.png"> <img alt="	Help with Repairing" width="75px" src="https://wiki.warthunder.com/images/5/52/Award-HelpWithRepairing.png"> </a>
+<a href="https://i.imgur.com/GVQe1Ed.png"> <img alt="Help with Repairing" width="75px" src="https://wiki.warthunder.com/images/5/52/Award-HelpWithRepairing.png"> </a>
+<a href="https://i.imgur.com/HKfnWYp.png"> <img alt="Assist streak: ×3!" width="75px" src="https://wiki.warthunder.com/images/6/64/Award-AssistsStreak.png"> </a>
+
 <h2>War Thunder</h2>
 <img src="https://i.imgur.com/tCguvqp.png" alt="VRChat card">
 <h2>VRChat</h2>

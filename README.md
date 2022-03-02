@@ -250,6 +250,9 @@ gmail: congaterori@gmail.com
   <a href="https://en.wikipedia.org/wiki/Hex_editor" class="main">
   <img alt="HxD Hex Editer" src="https://www.saashub.com/images/app/service_logos/18/6aff68d43bd3/large.png" width="100">
   </a>
+  <a href="https://en.wikipedia.org/wiki/Hex_editor" class="main">
+  <img alt="Kali linux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+  </a>
 </div>
 <br></br>
 <h2>My Google Developer badges</h2>

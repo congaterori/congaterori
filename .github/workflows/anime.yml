@@ -15,7 +15,7 @@ jobs:
           user: congaterori
           plugin_anilist_user: johnny20061234
           filename: metrics.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{secrets.TOKEN}}
           #template: classic
           #base: header, activity, community, repositories, metadata
           config_timezone: Asia/Bangkok

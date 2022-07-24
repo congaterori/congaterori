@@ -312,7 +312,9 @@ gmail: congaterori@gmail.com
 <a href="https://i.imgur.com/HKfnWYp.png"> <img alt="Assist streak: ×3!" width="75px" src="https://wiki.warthunder.com/images/6/64/Award-AssistsStreak.png"> </a>
 
 <h2>War Thunder</h2>
-<img src="https://i.imgur.com/tCguvqp.png" alt="VRChat card">
+<img src="https://i.imgur.com/tCguvqp.png" alt="War Thunder card">
 <h2>VRChat</h2>
 <!--old https://i.imgur.com/RALDmS1.png-->
 <img src="https://i.imgur.com/Xv66ylV.png" alt="VRChat card">
+<h2>Sky</h2>
+<img src="https://i.imgur.com/iWQRdJm.png" alt="Sky card">
